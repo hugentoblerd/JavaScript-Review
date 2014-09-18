@@ -1,9 +1,10 @@
 var callFriend = function(){
   var friend = 'Jake';
+  var number = '435-215-9248';
   function callF(number){
     return 'Calling ' + friend + ' at ' + number;
   }
-  return callF;
+  return callF(number);
 };
 
 //Above your given a callFriend function, that returns another function. 

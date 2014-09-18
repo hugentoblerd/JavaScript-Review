@@ -4,5 +4,5 @@ JavaScript-Review
 1. arrayReview.js --> DONE
 2. objectReview.js --> DONE
 3. callbackReview.js --> DONE
-4. closureReview.js --> 
+4. closureReview.js --> DONE
 5. constructorReview.js -->
